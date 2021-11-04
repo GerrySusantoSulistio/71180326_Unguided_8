@@ -1,0 +1,9 @@
+Soal 3
+
+inisialisasikan variable nilai faktorial
+inisialisasikan variable hasil dengan nilai awal 1
+
+If(nilai faktorial > 0)Then
+	hasil = hasil * nilai faktorial
+Else
+	pesan gagal
