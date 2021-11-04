@@ -1,0 +1,8 @@
+Soal 2
+
+Dari gambar soal nomor 2 gelas yang terisi terlebih dahulu adalah gelas nomor 2.
+Karena pada tabung pertama terdapat dua pipa yaitu pipa atas dan pipa bawah,
+lubang atas menuju ke kanan dan lubang bawah menuju kekiri. 
+Jika tabung tersebut diberikan air maka air akan terlebih dahulu melewati pipa bawah menuju kekiri. 
+Setelah melewati pipa di tabung sebelah kiri terdapat 2 pipa yaitu pipa bawah dan pipa kanan. 
+jika tabung tersebut terisi air maka air mengalir melewati pipa bawah dan mengisi gelas nomor 2.
